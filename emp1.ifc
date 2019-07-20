@@ -1,0 +1,13 @@
+ISO-10303-21;
+HEADER;
+
+FILE_DESCRIPTION(('ViewDefinition [CoordinationView_V2.0]'),'2;1');
+FILE_NAME('','',(''),(''),'','','');
+FILE_SCHEMA(('IFC2X3'));
+ENDSEC;
+
+DATA;
+
+ENDSEC;
+
+END-ISO-10303-21;
